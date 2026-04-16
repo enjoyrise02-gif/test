@@ -1,0 +1,9 @@
+{
+  "name": "imweb-to-google-drive",
+  "version": "1.0.0",
+  "dependencies": {
+    "googleapis": "^105.0.0",
+    "axios": "^1.1.3",
+    "express": "^4.18.2"
+  }
+}
